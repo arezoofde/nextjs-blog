@@ -35,32 +35,32 @@
   "arrivals": [
     {
       "name": "1",
-      "image": "",
+      "image": "../pic/1.jpg",
       "price": "5$"
     },
     {
       "name": "2",
-      "image": "",
+      "image": "../pic/2.jpg",
       "price": "12$"
     },
     {
       "name": "3",
-      "image": "",
+      "image": "../pic/3.jpg",
       "price": "21$"
     },
     {
       "name": "4",
-      "image": "",
+      "image": "../pic/4.jpg",
       "price": "22$"
     },
     {
       "name": "5",
-      "image": "",
+      "image": "../pic/5.jpg",
       "price": "15$"
     },
     {
       "name": "6",
-      "image": "",
+      "image": "../pic/6.jpg",
       "price": "15$"
     }
   ]

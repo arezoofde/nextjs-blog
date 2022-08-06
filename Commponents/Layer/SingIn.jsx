@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function SingIn() {
+export default function SignIn() {
   return (
-    <div>dfsdfSingIn </div>
+    <div>dfsdfSignIn </div>
   )
 }

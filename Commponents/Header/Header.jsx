@@ -2,7 +2,7 @@ import React from 'react'
 import Link from '../Router/Link';
 import Router from '../Router/Router';
 import Style from './Header.module.css'
-import SingIn from '../Layer/SingIn';
+import SignIn from '../Layer/SignIn';
 import About from '../Layer/About';
 import Account from '../Layer/Account';
 import Collection from '../Layer/Collection';
@@ -16,8 +16,8 @@ export default function Header(props) {
 
       <header className={Style.header}>
         <div className={Style.right_H}>
-          <Link to="/SingIn" handlClick={props} >
-            Sing In
+          <Link to="/SignIn" handlClick={props} >
+            SignIn
           </Link>
           <Link to='/Search'>
             Search
@@ -44,8 +44,8 @@ export default function Header(props) {
 
         </div>
       </header>
-      {/* <Router path={'/SingIn'}>
-        <SingIn />
+      {/* <Router path={'/SignIn'}>
+        <SignIn />
       </Router>
       <Router path={'/Search'}>
         <Search />
