@@ -9,6 +9,7 @@ import Footer from '../Commponents/Footer/Footer'
 export default function Index() {
   return (
    <div>
+     
    <Head>
      <Banner />
    </Head>
